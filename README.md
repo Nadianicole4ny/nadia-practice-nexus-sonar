@@ -1,1 +1,1 @@
-# nadia-practice-nexus-sonar
+# nadia-practice-mvn-nexus-sonar
